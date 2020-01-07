@@ -1,29 +1,6 @@
 {
   "shoppingCart": [
-    {
-      "id": "3",
-      "name": "Dunk Low Pro SB Pigeon ",
-      "newPrice": 6000,
-      "brand": "Nike",
-      "size": "41",
-      "imageLink": "https://res.cloudinary.com/webdevwebshop/image/upload/v1578141002/webshop%20product%20imgs/Most-Expensive-Sneakers-Nike-Dunk-Low-Pro-SB-Pigeon_k7oz11.webp"
-    },
-    {
-      "id": "1",
-      "name": "Air Jordan III OG",
-      "newPrice": 4000,
-      "brand": "Air Jordan",
-      "size": "36",
-      "imageLink": "https://res.cloudinary.com/webdevwebshop/image/upload/v1578140872/webshop%20product%20imgs/Most-Expensive-Sneakers-Air-Jordan-III-OG_xekevp.webp"
-    },
-    {
-      "id": "8",
-      "name": "Air Jordan 4 Undefeated ",
-      "newPrice": 15000,
-      "brand": "Air Jordan",
-      "size": "35",
-      "imageLink": "https://res.cloudinary.com/webdevwebshop/image/upload/v1578141295/webshop%20product%20imgs/Most-Expensive-Sneakers-Air-Jordan-4-Undefeated_x7acd6.webp"
-    }
+
   ],
   "brands": [
     {
