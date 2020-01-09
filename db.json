@@ -1,13 +1,6 @@
 {
   "shoppingCart": [
-    {
-      "id": "1",
-      "name": "Air Jordan III OG",
-      "newPrice": 4000,
-      "brand": "Air Jordan",
-      "size": "36",
-      "imageLink": "https://res.cloudinary.com/webdevwebshop/image/upload/v1578140872/webshop%20product%20imgs/Most-Expensive-Sneakers-Air-Jordan-III-OG_xekevp.webp"
-    }
+
   ],
   "brands": [
     {
